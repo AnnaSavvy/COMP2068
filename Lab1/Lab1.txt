@@ -1,0 +1,6 @@
+This is a paragraph for our assignment. We as a group love JavaScript.
+As a group of 3 (Anna, Lider and Heman, this project is going to be our very first project for our last semester.
+JavaScript frameworks are joyful to learn.
+In this project we will have a text file.
+And we will try to read this text file using JavaScript.
+Let's get started!
