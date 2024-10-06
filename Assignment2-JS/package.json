@@ -1,0 +1,17 @@
+{
+  "type":"module",
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "learning about node and ES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "es"
+  ],
+  "author": "Group20",
+  "license": "ISC"
+}
