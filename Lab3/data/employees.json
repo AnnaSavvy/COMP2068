@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "first_name": "Bridget",
+        "last_name": "Tack",
+        "email": "btack0@instagram.com",
+        "gender": "Female",
+        "job_title": "Human Resources Assistant III",
+        "hire_date": "1/2/2013"
+    },
+    {
+        "id": 2,
+        "first_name": "Dewitt",
+        "last_name": "Caldaro",
+        "email": "dcaldaro1@abc.net.au",
+        "gender": "Polygender",
+        "job_title": "Actuary",
+        "hire_date": "5/13/2010"
+    },
+    {
+        "id": 3,
+        "first_name": "Lutero",
+        "last_name": "Di Roberto",
+        "email": "ldiroberto2@europa.eu",
+        "gender": "Male",
+        "job_title": "Assistant Professor",
+        "hire_date": "11/19/2019"
+    },
+    {
+        "id": 4,
+        "first_name": "Casper",
+        "last_name": "FitzGilbert",
+        "email": "cfitzgilbert3@theguardian.com",
+        "gender": "Male",
+        "job_title": "Executive Secretary",
+        "hire_date": "5/26/2023"
+    },
+    {
+        "id": 5,
+        "first_name": "Rhys",
+        "last_name": "Southerden",
+        "email": "rsoutherden4@europa.eu",
+        "gender": "Male",
+        "job_title": "Senior Editor",
+        "hire_date": "3/15/2003"
+    },
+    {
+        "id": 6,
+        "first_name": "Chelsie",
+        "last_name": "Hastelow",
+        "email": "chastelow5@liveinternet.ru",
+        "gender": "Female",
+        "job_title": "VP Quality Control",
+        "hire_date": "6/13/2004"
+    },
+    {
+        "id": 7,
+        "first_name": "Cherise",
+        "last_name": "Rotte",
+        "email": "crotte6@cyberchimps.com",
+        "gender": "Female",
+        "job_title": "Actuary",
+        "hire_date": "1/8/2019"
+    },
+    {
+        "id": 8,
+        "first_name": "Roanna",
+        "last_name": "James",
+        "email": "rjames7@unblog.fr",
+        "gender": "Female",
+        "job_title": "Developer IV",
+        "hire_date": "4/7/2002"
+    },
+    {
+        "id": 9,
+        "first_name": "Annadiana",
+        "last_name": "Henriques",
+        "email": "ahenriques8@yale.edu",
+        "gender": "Female",
+        "job_title": "Recruiter",
+        "hire_date": "1/5/2005"
+    },
+    {
+        "id": 10,
+        "first_name": "Randall",
+        "last_name": "O'Drought",
+        "email": "rodrought9@unesco.org",
+        "gender": "Male",
+        "job_title": "Assistant Professor",
+        "hire_date": "5/24/2009"
+    }
+]
