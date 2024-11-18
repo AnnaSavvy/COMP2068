@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "description": "Classic pizza with tomato, mozzarella, and fresh basil.",
+        "price": 12.99,
+        "image": "/images/Pizza.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Steamed Chicken",
+        "description": "Steamed chicken breasts with chipotle sauce and rosemarry",
+        "price": 9.99,
+        "image": "/images/Steamed-Chicken.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lentil Soup",
+        "description": "Lentil soup with cilantro on top with pita",
+        "price": 7.99,
+        "image": "/images/lentil-soup.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Grilled Salmon",
+        "description": "Perfectly grilled salmon served with a side of vegetables.",
+        "price": 18.99,
+        "image": "/images/salmon.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Poutine",
+        "description": "Classic Canadian fries topped with gravy and cheese curds.",
+        "price": 6.99,
+        "image": "/images/poutine.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Grilled Steak",
+        "description": "Juicy grilled steak served with your choice of sides.",
+        "price": 24.99,
+        "image": "/images/Steak.jpg"
+    }
+]
